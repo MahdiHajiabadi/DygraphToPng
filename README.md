@@ -1,4 +1,4 @@
-# DygraphToPng
+# DygraphToHtml
 
 
 As far as my concern, there is no way to directly export dygraph object to png or pdf format. What we can alternatively do, is exporting dygraph object to html using 
